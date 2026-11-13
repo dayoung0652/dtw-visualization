@@ -8,7 +8,7 @@
 | 노트북 | 내용 | Colab에서 열기 |
 |---|---|---|
 | `dtw_gif_animation.ipynb` | 아래 GIF 4개를 만드는 코드 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dayoung0652/dtw-visualization/blob/main/dtw_gif_animation.ipynb) |
-| `dtw_report_figures.ipynb` | 보고서 그림 1~15를 만드는 코드 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_ID/dtw-visualization/blob/main/dtw_report_figures.ipynb) |
+| `dtw_report_figures.ipynb` | 보고서 그림 1~15를 만드는 코드 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dayoung0652/dtw-visualization/blob/main/dtw_report_figures.ipynb) |
 
 Colab에서 연 뒤 **런타임 → 모두 실행**을 누르면 그대로 실행됩니다.
 
